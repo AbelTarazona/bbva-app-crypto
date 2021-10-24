@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable-v24/background_rounded_white.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/backgorund_top.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/background_rounded_blue.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/background_rounded_gray.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/background_rounded_white.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/circle.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/ic_visa_white.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/logo_blue.xml" value="0.3828125" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/drawable/logo_white.xml" value="0.3731481481481482" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_beneficios.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_comprar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_creation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_crowfunding.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_detail_otactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_init.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_metas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/activity_open_token.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/card_blue_large.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_canje.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_collect.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_cripto_comprar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_inversion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_market_price.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos/Android/HackBBVA/BBVACryptoWallet/app/src/main/res/layout/item_meta.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

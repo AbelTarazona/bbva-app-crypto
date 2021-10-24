@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BBVACryptoWallet</string>
+    <string name="transfer">Recuerda que esta dirección es única con la cual podrás comprar criptomonedas y hacer transferencias en <b>CryptoPlin</b></string>
+</resources>
