@@ -2,5 +2,6 @@
 
 # Preview 🚀
 ## Screenshots 🎉
-![Image](dev/splash.jpg)
-![Image](dev/metas.jpg)
+![Image](dev/image1.png)
+![Image](dev/image2.png)
+![Image](dev/blockchain.png)
